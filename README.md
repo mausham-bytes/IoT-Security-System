@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Date:** July 8, 2025  
-**Author:** MaUSHAM PRASAD
+**Author:** MAUSHAM PRASAD
 **Project:** CodTech Internship Task 3 - IoT Security System
 
 ## 🔐 Project Overview
