@@ -347,15 +347,7 @@ This project is released under the MIT License, allowing free use, modification,
 
 ---
 
-## 📞 Contact Information
-
-**Project Repository:** [GitHub Link]  
-**Documentation:** [Wiki Link]  
-**Community Forum:** [Forum Link]  
-**Issue Tracking:** [Issues Link]  
-**Professional Support:** [Contact Form]
-
-**Development Team:** Manus AI  
+**Development NAME :** MaUSHAM PRASAD
 **Project Sponsor:** CodTech Internship Program  
 **Version:** 1.0  
 **Release Date:** July 8, 2025
